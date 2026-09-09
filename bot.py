@@ -65,4 +65,4 @@ async def post_image(ctx, *, title: str = "خلفية مميزة"):
 async def on_ready():
     print(f"البوت اشتغل بنجاح باسم: {bot.user}")
 
-bot.run("")
+bot.run("MTU0NnZE4TKzOTI3OKxMzMzA5Mg..GpsUQV.5TjveyFDdvj8YZef99l3NZW4Mu9CalooM1MC")
